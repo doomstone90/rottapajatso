@@ -45,8 +45,9 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-     <Compile Include="Assets\scripts\restart.cs" />
-     <Compile Include="Assets\scripts\rottamovement.cs" />
+     <Compile Include="Assets\scripts\JumpScript.cs" />
+     <Compile Include="Assets\scripts\Restart.cs" />
+     <Compile Include="Assets\scripts\Rottamovement.cs" />
  <Reference Include="UnityEngine.UI">
  <HintPath>C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/GUISystem/UnityEngine.UI.dll</HintPath>
  </Reference>
